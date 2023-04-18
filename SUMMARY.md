@@ -1,7 +1,7 @@
 # Table of contents
 
 * [0. 开始](README.md)
-* [1. 介绍](jieshao.md)
+* [1. 介绍](1.-jie-shao.md)
 * [2. 安装](2.-an-zhuang.md)
 * [3. 实现 hello world](3.-shi-xian-hello-world.md)
 * [4. webpack 的配置文件 webpack.config.js](4.-webpack-de-pei-zhi-wen-jian-webpack.config.js.md)
